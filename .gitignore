@@ -1,2 +1,2 @@
-models/*.onnx
-models/*.rknn
+models/
+models/
